@@ -1,7 +1,7 @@
-# REGRESSION ANALYSIS
-REGRESSION ANALYSIS TO PREDICT HOUSE PRICES IN SAN JOSE 2017
+# Regression Analysis
+Regression Analysis to predict house prices in San Jose for year 2017
 
-### Author
+### Project Members
 - Jay Patel
 - Van Ahn Le
 
@@ -16,7 +16,7 @@ The goal of this project is to predict the house prices of the San Jose city in 
 - Probability and Statistics
 - Linear Models/Regression
 
-### Example
+### Results
 The scatter plot matrix of all the variables used in the project.
 ![Scatter Plot Matrix](https://raw.githubusercontent.com/jbp261/REGRESSION-ANALYSIS/master/Scatter_plot_matrix_.jpg "Scatter Plot Matrix")
 
