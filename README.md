@@ -21,7 +21,7 @@ The scatter plot matrix of all the variables used in the project.
 ![Scatter Plot Matrix](https://raw.githubusercontent.com/jbp261/REGRESSION-ANALYSIS/master/Scatter_plot_matrix_.jpg "Scatter Plot Matrix")
 
 Pridiction of the house prices based on bedrooms, bathrooms and house size based on the regression analysis. 
-[![Prediction Table](https://raw.githubusercontent.com/jbp261/REGRESSION-ANALYSIS/master/Prediction.png "Prediction Table")
+![Prediction Table](https://raw.githubusercontent.com/jbp261/REGRESSION-ANALYSIS/master/Prediction.png "Prediction Table")
 
 ### Referance
 The data for the project was collected from the following website.
